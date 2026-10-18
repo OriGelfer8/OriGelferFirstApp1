@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+
+    <string name="welcome_message">ברוכים הבאים!</string>
+    <string name="click_here">תלחץ עליי</string>
+
+    <string name="my_message">
+    האפליקציה הראשונה שלי
+</string>
+
+</resources>
