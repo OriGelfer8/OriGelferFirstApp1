@@ -4,11 +4,13 @@
     <string name="welcome_message">ברוכים הבאים!</string>
     <string name="click_here">תלחץ עליי</string>
 
+    <string name="click_here2">תלחץ גם עליי</string>
+
     <string name="my_message">
     האפליקציה הראשונה שלי
 </string>
 
-    <string name="name_message">
+    <string name="gabab_message">
   גבב הגואט
 </string>
 
