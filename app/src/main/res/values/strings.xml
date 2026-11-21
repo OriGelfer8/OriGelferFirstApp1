@@ -1,19 +1,11 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
 
-    <string name="welcome_message">ברוכים הבאים!</string>
-    <string name="click_here">תלחץ עליי</string>
-
-    <string name="click_here2">תלחץ גם עליי</string>
-
-    <string name="my_message">
-    האפליקציה הראשונה שלי
-</string>
-
-    <string name="main_title">
-  דני אבדיה-הישראלי שלנו ב-NBA
-</string>
-    <string name="most_israeli">הכי ישראלי</string>
-    <string name="israeli_food">בעיניי האוכל הישראלי זה הדבר הכי ישראלי. חומוס עם חברים או משפחה בשישי בצהריים או פלאפל ביום העצמאות אין יותר ישראלי מזה, אין ישראלי שלא טעם ולא אוהב מאכלים ישראלים וזה דבר שמאחד את כולם</string>
+    <string name="user_name">ישראל ישראלי</string>
+    <string name="send_message">שלח הודעה</string>
+    <string name="follow">עקוב</string>
+    <string name="following">במעקב</string>
+    <string name="opening_chat">פותח צ\'אט...</string>
+    <string name="started_following">התחלת לעקוב!</string>
 
 </resources>
